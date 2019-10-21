@@ -1,3 +1,3 @@
 # PDPC
 PacificDigitalPhotographyClub
-Contains various files about the club and my interests
+Contains various files about the club and my photography interests
